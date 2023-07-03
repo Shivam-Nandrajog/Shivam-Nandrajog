@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivam-Nandrajog
-- 👀 I’m interested in ...Programming and data science
-- 🌱 I’m currently learning ...core java and data analysis 
-- 💞️ I’m looking to collaborate on ...java and data science
+- 👀 I’m interested in ...Web Development and Cyber Security
+- 🌱 I’m currently learning ...Web development
+- 💞️ I’m looking to collaborate on ...developing and hosting websites
 - 📫 How to reach me ...Email:nandrajogshivam@gmail.com 
 
 <!---
